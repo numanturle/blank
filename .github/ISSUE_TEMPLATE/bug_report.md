@@ -2,6 +2,7 @@
 name: 🐛 Bug Report
 about: Something isn't working as expected 🤔
 ---
+
 # Bug Report
 
 ## Current Behavior
