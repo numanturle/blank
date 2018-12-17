@@ -6,7 +6,7 @@
 
 Describe you project.
 
-![Screenshot](https://i.imgur.com/__IMGUR_SCREENSHOT_HASH__.png)
+![Screenshot](/media/screenshot.png)
 
 ## Features
 
